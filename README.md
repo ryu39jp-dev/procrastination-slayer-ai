@@ -14,6 +14,5 @@
 - **Notification:** Discord or LINE
 
 ## 今後のスケジュール
-- 4月末まで: SAA試験勉強と並行してインフラ設計
-- GW期間: プロトタイプ実装（Lambda + Bedrock連携）
-- 5月中盤: 完成・公開
+バックエンドからDiscordへの通知まで実装完了
+双方向のボット化を予定
